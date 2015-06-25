@@ -263,4 +263,4 @@
         android:layout_height="wrap_content"
         android:background="#ffffff"
         android:layout_weight=".1"></LinearLayout>
-</LinearLayout><!-- From: file:/D:/RollMach_update_250615/RollMach1/app/src/main/res/layout/fragment_second.xml -->
+</LinearLayout><!-- From: file:/D:/RollMach_update_250615/RollMach2/app/src/main/res/layout/fragment_second.xml -->
